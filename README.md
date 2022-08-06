@@ -1,4 +1,4 @@
-Simple Address Book in PHP & MySQL
+<strong>Simple Address Book in PHP & MySQL</strong>
 
 1.	Please change the server credentials in the file: db.php
  <img src="docs/code.png">
